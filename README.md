@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Vinicius Prati
-- 👀 Sou interessado em criação de sites
+- 👀 Sou interessado em desenvolvimento Web
 - 🌱 Estou estudando Front-end
 - 💞️ Gosto muito da área de programação
 - 📫 Contato: Discord ID: vini.royale
