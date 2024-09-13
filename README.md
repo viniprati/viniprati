@@ -3,4 +3,4 @@
 - 🌱 Estou estudando Front-end e logo vou para Full Stack
 - 💞️ Amo muito a área de programação
 - 📫 Contato: Discord ID: viniciuspratimachado
-- ⚡ Por causa de uma vírgula fiquei 3 dias arrumando um código (evento canônico de iniciante)
+- ⚡ Por causa de uma ";" fiquei 3 dias arrumando um código (evento canônico)
