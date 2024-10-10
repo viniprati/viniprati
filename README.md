@@ -1,6 +1,1 @@
-- 👋 Olá, me chamo Vinicius Prati
-- 👀 Sou interessado em desenvolvimento Full Stack
-- 🌱 Estou estudando Front-end e logo vou para Full Stack
-- 💞️ Amo muito a área de programação
-- 📫 Contato: Discord ID: viniciuspratimachado
-- ⚡ Por causa de uma ";" fiquei 3 dias arrumando um código (evento canônico)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniprati&show_icons=true&theme=dracula)
