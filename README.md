@@ -33,8 +33,8 @@
 ---
 
 ### 📬 Contact
-- 💼 LinkedIn: (https://www.linkedin.com/in/vinicius-prati/)
-- 📧 Email: viniprati6503@gmail.com
+- 💼 [Linkedin](https://www.linkedin.com/in/vinicius-prati/)
+- 📧 [Email](viniprati6503@gmail.com)
 
 ---
 
