@@ -1,6 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniprati&show_icons=true&title_color=ff4c4c&text_color=e0e0e0&icon_color=ff1f1f&bg_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniprati&layout=compact&title_color=ff4c4c&text_color=e0e0e0&icon_color=ff1f1f&bg_color=000000)
-
 <h1 align="center">Olá, eu sou o Vinicius 👋</h1>
 
 <p align="center">
@@ -25,8 +22,8 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniprati&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniprati&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viniprati&show_icons=true&title_color=ff4c4c&text_color=e0e0e0&icon_color=ff1f1f&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniprati&layout=compact&title_color=ff4c4c&text_color=e0e0e0&icon_color=ff1f1f&bg_color=000000"/>
 </p>
 
 ---
