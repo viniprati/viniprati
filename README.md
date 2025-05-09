@@ -28,14 +28,6 @@
 
 ---
 
-### 🌱 Contribuições em 3D
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/viniprati/viniprati/main/profile-3d-contrib/profile-green-animate.svg" width="100%" />
-</p>
-
----
-
 ### 📬 Onde me encontrar:
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-prati/)
 - 📧 Email: viniprati6503@gmail.com
