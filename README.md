@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Vinicius 👋</h1>
 
 <p align="center">
-  Frontend Developer • React | Node.js | TypeScript • Game Dev 🎮 • Open Source 💻
+  Fullstack Developer • React | Node.js | TypeScript • Game Dev 🎮 • Open Source 💻
 </p>
 
 ---
@@ -14,11 +14,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/roblox.png" width="40" title="Roblox Studio"/>
 </div>
 
 ---
@@ -33,8 +37,8 @@
 ---
 
 ### 📬 Contact
-- 💼 [Linkedin](https://www.linkedin.com/in/vinicius-prati/)
-- 📧 [Email](viniprati6503@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-prati/)
+- 📧 [Email](mailto:viniprati6503@gmail.com)
 
 ---
 
