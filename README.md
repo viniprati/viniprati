@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.icons8.com/ios/50/000000/roblox-studio.png" width="40" title="Roblox Studio"/>
+  <img src="https://img.shields.io/badge/Roblox%20Studio-0000FF?style=for-the-badge&logo=roblox&logoColor=white" />
 </div>
 
 <!-- Icons -->
