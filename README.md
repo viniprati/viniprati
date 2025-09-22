@@ -65,7 +65,7 @@ Sou um desenvolvedor focado em transformar ideias em realidade digital. Minha ex
   Jogo Tower Defense inspirado em mitologias orientais, feito na Unity com Pixel art. Um projeto que combina minha paixão por desenvolvimento de jogos e arte.
   <br><br>
   <!-- Substitua # pelos links reais do seu projeto -->
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#" target="https://github.com/viniprati/Gradon-Tower-Defense-Game"><img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
