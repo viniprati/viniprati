@@ -2,11 +2,10 @@
   <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/hi.gif" width="50px">
 </div>
 
-<h1 align="center">Olá, eu sou o Vinicius Prati! 👋</h1>
+<h1 align="center">Vinicius Prati | Desenvolvedor Frontend & Game Dev</h1>
 
 <p align="center">
-  Desenvolvedor Frontend & Game Dev. <br>
-  Trabalho com <strong>React</strong>, <strong>Node.js</strong> e <strong>JavaScript/TypeScript</strong>, além de criar experiências em <strong>Unity (C#)</strong>. 🚀
+  Focado em criar soluções web interativas com <strong>React</strong> e <strong>Node.js</strong>, e experiências imersivas em <strong>Unity (C#)</strong>. 🚀
 </p>
 
 <p align="center">
@@ -25,11 +24,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um entusiasta de tecnologia que cria tanto soluções web quanto experiências interativas em jogos.  
-No **frontend**, gosto de transformar ideias em interfaces rápidas e responsivas.  
-No **game dev**, exploro criatividade e lógica em projetos de **Tower Defense** e **RPGs**.  
+Sou um desenvolvedor apaixonado por tecnologia, com experiência na criação de soluções web e no desenvolvimento de jogos.
 
-Sempre aprendendo coisas novas e colaborando em projetos que desafiem minhas habilidades.  
+No **frontend**, meu foco é transformar ideias em interfaces rápidas, responsivas e intuitivas.
+No **game dev**, exploro a criatividade e a lógica para construir mecânicas para jogos de **Tower Defense** e **RPGs**.
+
+Estou sempre em busca de novos aprendizados e colaborando em projetos que desafiem minhas habilidades.
 
 ---
 
@@ -85,11 +85,12 @@ Sempre aprendendo coisas novas e colaborando em projetos que desafiem minhas hab
 
 ### Gamer World
 <p align="center">
-  <img src="https://raw.githubusercontent.com/viniprati/gamer-world/main/public/screenshot.png" alt="Screenshot do Gamer World">
+  <a href="https://gamer-world-viniprati.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/viniprati/gamer-world/main/public/screenshot.png" alt="Screenshot do Gamer World">
+  </a>
 </p>
 <p align="justify">
-  Servidor e plataforma oficial da comunidade gamer que conecta jogadores, organiza squads e traz eventos exclusivos.  
-  Construído com <strong>React</strong>, <strong>TypeScript</strong> e <strong>Chakra UI</strong>, consumindo a API da RAWG.io.
+  Plataforma que conecta a comunidade gamer, permitindo a organização de squads e a descoberta de eventos. O projeto foi construído com <strong>React</strong> e <strong>TypeScript</strong> para garantir um código robusto e escalável, e utiliza <strong>Chakra UI</strong> para uma interface moderna e responsiva. Os dados dos jogos são consumidos em tempo real da API externa da <strong>RAWG.io</strong>.
   <br><br>
   <a href="https://github.com/viniprati/gamer-world" target="_blank"><img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://gamer-world-viniprati.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Site-007ACC?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -97,12 +98,10 @@ Sempre aprendendo coisas novas e colaborando em projetos que desafiem minhas hab
 
 ### Gradon - Tower Defense
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Gradon+-+Tower+Defense" alt="Screenshot do Gradon">
+  <img src="https://via.placeholder.com/600x300.png?text=Adicione+um+GIF+ou+Screenshot+do+seu+jogo" alt="Screenshot do Gradon">
 </p>
 <p align="justify">
-  Jogo <strong>Tower Defense</strong> em pixel art (320x180), ambientado na mitologia japonesa.  
-  Defenda o telhado ao nascer do sol contra hordas de Yokais, usando torres como o Dragão, Samurai e Kirin.  
-  Desenvolvido em <strong>Unity (C#)</strong>.
+  Jogo de <strong>Tower Defense</strong> em pixel art (320x180) com tema de mitologia japonesa. O desafio técnico principal foi desenvolver a lógica das torres (Dragão, Samurai e Kirin) e a inteligência artificial para o comportamento das hordas de Yokais. Desenvolvido em <strong>Unity</strong> com scripts em <strong>C#</strong>.
   <br><br>
   <a href="https://github.com/viniprati/gradon" target="_blank"><img src="https://img.shields.io/badge/Ver_Repositório-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -111,14 +110,17 @@ Sempre aprendendo coisas novas e colaborando em projetos que desafiem minhas hab
 
 ## 🌱 O que estou aprendendo agora?
 
-- 🚀 **React + Next.js** para projetos web mais performáticos  
-- 🎮 **Sistemas de IA para jogos em Unity**  
-- ⚡ **APIs e automações com Node.js**  
+- 🚀 **React + Next.js:** Aprofundando em Server-Side Rendering (SSR) e Static Site Generation (SSG) para criar aplicações web com máxima performance e SEO otimizado.
+- 🎮 **IA para Jogos em Unity:** Estudando a implementação de algoritmos de pathfinding (como A*) e a criação de State Machines para desenvolver comportamentos mais complexos e realistas para NPCs.
+- ⚡ **APIs e Automações com Node.js:** Desenvolvendo APIs RESTful mais eficientes e explorando automações de tarefas com bibliotecas do ecossistema Node.js.
 
 ---
 
 ## 💬 Vamos Conectar!
 
+<p align="center">
+  Pronto para colaborar ou trocar ideias? Entre em contato!
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-prati/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin"/>
