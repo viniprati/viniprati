@@ -86,7 +86,7 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
 ### Gamer World
 <p align="center">
   <a href="https://gamer-world-viniprati.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/viniprati/gamer-world/main/public/screenshot.png" alt="Screenshot do Gamer World">
+  <img width="509" height="201" alt="image" src="https://github.com/user-attachments/assets/4f5e0ced-067c-4fe7-b79d-c886ff206fd4" />
   </a>
 </p>
 <p align="justify">
