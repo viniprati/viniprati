@@ -9,7 +9,6 @@
 
 </div>
 
-<!-- Introdução e Contato -->
 <p align="center">
   Focado em criar soluções web interativas com <strong>React</strong> e <strong>Node.js</strong>, e experiências imersivas em <strong>Unity (C#)</strong>. 🚀
   <br/>
@@ -40,21 +39,17 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <!-- Agrupamento por área para melhor visualização -->
-  <!-- Frontend -->
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
   </a>
-  <!-- Backend -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb" />
   </a>
   <br/>
-  <!-- Game Dev & Outras Linguagens -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
-  <!-- Ferramentas -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
   </a>
@@ -65,13 +60,11 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <!-- Usando um tema mais coeso e moderno (dracula) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniprati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniprati&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniprati&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&title_color=E84141&text_color=FFFFFF&icon_color=E84141&border_color=E84141&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniprati&layout=compact&langs_count=7&bg_color=151515&title_color=E84141&text_color=FFFFFF&border_color=E84141&hide_border=true"/>
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniprati&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniprati&background=151515&stroke=E84141&ring=E84141&fire=E84141&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" />
 </p>
-
 ---
 
 ### 🚀 Projetos em Destaque
@@ -98,7 +91,6 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
   <summary><strong>🎮 Gradon - Tower Defense com Mitologia Japonesa</strong></summary>
   <br/>
   <p align="center">
-    <!-- SUGESTÃO: Grave um GIF curto do gameplay e coloque o link aqui -->
     <img src="https://via.placeholder.com/600x300.png?text=Adicione+um+GIF+ou+Screenshot+do+seu+jogo" alt="Screenshot do Gradon">
   </p>
   <p>
