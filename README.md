@@ -1,5 +1,5 @@
 <p align="center">
-  <img ssrc="https://github.com/user-attachments/assets/61a82d93-64f3-4111-93a0-f1c2ffceb845" alt="Vinicius Prati - Desenvolvedor Frontend & Game Dev"/>
+  <img src="https://github.com/user-attachments/assets/61a82d93-64f3-4111-93a0-f1c2ffceb845" alt="Vinicius Prati - Desenvolvedor Frontend & Game Dev"/>
 </p>
 
 <div align="center">
