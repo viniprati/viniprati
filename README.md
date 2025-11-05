@@ -53,7 +53,7 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
     <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode,discord" />
   </a>
 </p>
 
