@@ -26,9 +26,10 @@
   </a>
 </p>
 
+<!-- CARD ATUALIZADO PARA FORÇAR A ATUALIZAÇÃO DO CACHE -->
 <p align="center">
   <a href="https://discord.com/users/983870132063453235">
-    <img src="https://lanyard.cnrad.dev/api/983870132063453235" alt="Status do Discord em Tempo Real">
+    <img src="https://lanyard.cnrad.dev/api/983870132063453235?v=1" alt="Status do Discord em Tempo Real">
   </a>
 </p>
 
@@ -124,4 +125,4 @@ Atualmente, estou focado em aprofundar meus conhecimentos e aplicar novas tecnol
 
 <p align="center">
   ✨ Obrigado pela visita! Sinta-se à vontade para se conectar. ✨
-</p>
+</p>```
