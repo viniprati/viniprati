@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/hi.gif" width="50px">
   <h1 align="center">Olá, sou Vinicius Prati 👋</h1>
   <h3 align="center">Desenvolvedor Frontend & Game Developer</h3>
-
 </div>
 
 <p align="center">
@@ -21,6 +20,10 @@
   </a>
   <a href="mailto:viniprati6503@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://discordapp.com/users/983870132063453235" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-404_3rr0r-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 ---
@@ -39,7 +42,6 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
   </a>
