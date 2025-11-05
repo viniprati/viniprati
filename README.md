@@ -26,7 +26,6 @@
   </a>
 </p>
 
-<!-- CARD DE STATUS DO DISCORD EM TEMPO REAL -->
 <p align="center">
   <a href="https://discord.com/users/983870132063453235">
     <img src="https://lanyard.cnrad.dev/api/983870132063453235" alt="Status do Discord em Tempo Real">
