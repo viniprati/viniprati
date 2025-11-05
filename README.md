@@ -65,6 +65,7 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
   <br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniprati&background=151515&stroke=E84141&ring=E84141&fire=E84141&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" />
 </p>
+
 ---
 
 ### 🚀 Projetos em Destaque
