@@ -125,4 +125,4 @@ Atualmente, estou focado em aprofundar meus conhecimentos e aplicar novas tecnol
 
 <p align="center">
   ✨ Obrigado pela visita! Sinta-se à vontade para se conectar. ✨
-</p>```
+</p>
