@@ -68,3 +68,4 @@ Se voce esta avaliando meu perfil para oportunidades, sera um prazer conversar:
 
 - LinkedIn: [Vinicius-Prati-Machado](https://linkedin.com/in/vinicius-prati-machado-b25206313)
 - Email: [viniprati6503@gmail.com](mailto:viniprati6503@gmail.com)
+
