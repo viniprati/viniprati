@@ -40,10 +40,17 @@ Meu objetivo e entregar software que seja tecnicamente solido e util para quem u
 
 ## Stack Principal
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,mysql,postgres,mongodb,git,vscode,linux" />
+  </a>
+</p>
+
 - Frontend: React, TypeScript, HTML, CSS, Tailwind
 - Backend: Node.js
 - Banco de dados: MySQL, PostgreSQL, MongoDB
-- Ferramentas: Git, Docker, VS Code
+- Ferramentas: Git, VS Code
+- Leve experiencia: Linux Ubuntu, Kali Linux e Linux Mint
 
 ---
 
@@ -59,5 +66,5 @@ Meu objetivo e entregar software que seja tecnicamente solido e util para quem u
 
 Se voce esta avaliando meu perfil para oportunidades, sera um prazer conversar:
 
-- LinkedIn: [vinicius-prati-machado-b25206313](https://linkedin.com/in/vinicius-prati-machado-b25206313)
+- LinkedIn: [vinicius-prati-machado](https://linkedin.com/in/vinicius-prati-machado-b25206313)
 - Email: [viniprati6503@gmail.com](mailto:viniprati6503@gmail.com)
