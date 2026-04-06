@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/655c74f9-a60a-4b76-8765-a1979d849a89" alt="Vinicius Prati - Desenvolvedor Frontend & Game Dev"/>
+  <img src="https://github.com/user-attachments/assets/655c74f9-a60a-4b76-8765-a1979d849a89" alt="Vinicius Prati - Desenvolvedor Full Stack Web"/>
 </p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/hi.gif" width="50px">
-  <h1 align="center">Olá, sou Vinicius Prati 👋</h1>
-  <h3 align="center">Desenvolvedor Frontend & Game Developer</h3>
+  <h1 align="center">Ola, sou Vinicius Prati</h1>
+  <h3 align="center">Desenvolvedor Full Stack Web</h3>
 </div>
 
 <p align="center">
-  Focado em criar soluções web interativas com <strong>React</strong> e <strong>Node.js</strong>, e experiências imersivas em <strong>Unity (C#)</strong>. 🚀
+  Focado em criar solucoes web completas com <strong>React</strong>, <strong>Node.js</strong> e bancos de dados relacionais e nao relacionais.
   <br/>
-  Transformando ideias em código limpo, eficiente e escalável.
+  Transformando ideias em codigo limpo, eficiente e escalavel.
 </p>
 
 <p align="center">
@@ -26,27 +26,25 @@
   </a>
 </p>
 
-<!-- CARD ATUALIZADO PARA FORÇAR A ATUALIZAÇÃO DO CACHE -->
 <p align="center">
   <a href="https://discord.com/users/983870132063453235">
-    <img src="https://lanyard.cnrad.dev/api/983870132063453235?v=1" alt="Status do Discord em Tempo Real">
+    <img src="https://lanyard.cnrad.dev/api/983870132063453235?v=1" alt="Status do Discord em tempo real">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com uma jornada dupla entre a **criação de soluções web** e o **desenvolvimento de jogos**.
+Sou um desenvolvedor **Full Stack Web**, focado em criar aplicacoes completas, do frontend ao backend, com atencao em performance, usabilidade e codigo limpo.
 
-- 🌐 **No universo Frontend**, meu foco é transformar ideias em interfaces rápidas, responsivas e intuitivas. Tenho um olhar crítico para a experiência do usuário e prezo pela qualidade e manutenibilidade do código.
-- 🎮 **No mundo do Game Dev**, exploro a criatividade e a lógica para construir mecânicas para jogos de **Tower Defense** e **RPGs**, gêneros que me fascinam pela complexidade estratégica e narrativa.
+Atualmente, estou cursando **Desenvolvimento de Sistemas para Internet** no **IFES (graduacao)**, fortalecendo minha base tecnica e aplicando esse conhecimento em projetos praticos.
 
-Estou sempre em busca de novos aprendizados e colaborando em projetos que desafiem minhas habilidades e me permitam crescer como profissional.
+Meu foco e evoluir continuamente na construcao de solucoes web modernas, escalaveis e bem estruturadas.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,72 +55,22 @@ Estou sempre em busca de novos aprendizados e colaborando em projetos que desafi
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity" />
-  </a>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,visualstudio,discord" />
   </a>
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniprati&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&title_color=E84141&text_color=FFFFFF&icon_color=E84141&border_color=E84141&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniprati&layout=compact&langs_count=7&bg_color=151515&title_color=E84141&text_color=FFFFFF&border_color=E84141&hide_border=true"/>
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniprati&background=151515&stroke=E84141&ring=E84141&fire=E84141&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" />
-</p>
-
----
-
-### 🚀 Projetos em Destaque
-
-<details>
-  <summary><strong>🌐 Gamer World - Plataforma de Conexão para Gamers</strong></summary>
-  <br/>
-  <p align="center">
-    <a href="https://gamer-world-viniprati.vercel.app/" target="_blank">
-      <img alt="Preview do Gamer World" src="https://github.com/user-attachments/assets/4f5e0ced-067c-4fe7-b79d-c886ff206fd4" />
-    </a>
-  </p>
-  <p>
-    Uma plataforma que conecta a comunidade gamer, permitindo a organização de squads e a descoberta de eventos. O projeto foi construído com <strong>React</strong> e <strong>TypeScript</strong> para garantir um código robusto e escalável, e utiliza <strong>Chakra UI</strong> para uma interface moderna e responsiva. Os dados dos jogos são consumidos em tempo real da API externa da <strong>RAWG.io</strong>.
-  </p>
-  <p align="center">
-    <a href="https://github.com/viniprati/gamer-world" target="_blank"><img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-    &nbsp;
-    <a href="https://gamer-world-viniprati.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Acessar_Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  </p>
-</details>
-
-<details>
-  <summary><strong>🎮 Gradon - Tower Defense com Mitologia Japonesa</strong></summary>
-  <br/>
-  <p align="center">
-    <img src="https://via.placeholder.com/600x300.png?text=Adicione+um+GIF+ou+Screenshot+do+seu+jogo" alt="Screenshot do Gradon">
-  </p>
-  <p>
-    Jogo de <strong>Tower Defense</strong> em pixel art (320x180) com tema de mitologia japonesa. O desafio técnico principal foi desenvolver a lógica das torres (Dragão, Samurai e Kirin) e a inteligência artificial para o comportamento das hordas de Yokais. Desenvolvido em <strong>Unity</strong> com scripts em <strong>C#</strong>.
-  </p>
-  <p align="center">
-    <a href="https://github.com/viniprati/gradon" target="_blank"><img src="https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  </p>
-</details>
-
----
-
-### 🌱 Meus Próximos Passos
+### Meus Proximos Passos
 
 Atualmente, estou focado em aprofundar meus conhecimentos e aplicar novas tecnologias nos meus projetos. Minha trilha de aprendizado inclui:
 
-- 🚀 **React & Next.js:** Aprofundando em Server-Side Rendering (SSR) e Static Site Generation (SSG) para criar aplicações web com máxima performance e SEO otimizado.
-- 🎮 **IA para Jogos em Unity:** Estudando a implementação de algoritmos de pathfinding (como A*) e a criação de *State Machines* para desenvolver comportamentos mais complexos e realistas para NPCs.
-- ⚡ **APIs e Automações com Node.js:** Desenvolvendo APIs RESTful mais eficientes e explorando automações de tarefas com bibliotecas do ecossistema Node.js.
+- React e Next.js: aprofundando em SSR e SSG para criar aplicacoes web com alta performance e SEO otimizado.
+- APIs e automacoes com Node.js: desenvolvendo APIs RESTful mais eficientes e explorando automacoes de tarefas.
+- Arquitetura Full Stack: evoluindo em organizacao de projetos, padroes de codigo e escalabilidade.
 
 ---
 
 <p align="center">
-  ✨ Obrigado pela visita! Sinta-se à vontade para se conectar. ✨
+  Obrigado pela visita. Sinta-se a vontade para se conectar.
 </p>
