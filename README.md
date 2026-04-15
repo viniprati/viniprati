@@ -1,8 +1,7 @@
 ﻿<p align="center">
-  <img src="./assets/banner-github.png" alt="Vinicius Prati - Desenvolvedor Full Stack Web"/>
+  <img src="./assets/image.png" alt="Vinicius Prati - Desenvolvedor Full Stack Web"/>
 </p>
 <div align="center">
-  <img src="<img width="640" height="280" alt="image" src="https://github.com/user-attachments/assets/1f382fa3-6cf7-4eec-93f9-4347882e11a7">
   <h1 align="center">Ola, sou Vinicius Prati</h1>
   <h3 align="center">Desenvolvedor Full Stack Web</h3>
 </div>
