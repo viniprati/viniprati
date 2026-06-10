@@ -33,6 +33,14 @@ Meu foco e evoluir continuamente na construcao de solucoes web modernas, escalav
 
 ---
 
+<p align="center">
+  <a href="https://viniprati.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-Acessar%20meu%20site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+</p>
+
+---
+
 ### Tecnologias e Ferramentas
 
 <p align="center">
