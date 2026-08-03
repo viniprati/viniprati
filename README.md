@@ -1,77 +1,90 @@
-﻿<p align="center">
-  <img src="./assets/image.png" alt="Vinicius Prati - Desenvolvedor Full Stack Web"/>
+<p align="center">
+  <img src="./assets/image.png" alt="Vinicius Prati - Desenvolvedor Full Stack Web" />
 </p>
+
 <div align="center">
-  <h1 align="center">Ola, sou Vinicius Prati</h1>
-  <h3 align="center">Desenvolvedor Full Stack Web</h3>
+  <h1>Olá, eu sou Vinicius Prati</h1>
+  <h3>Desenvolvedor Full Stack Web em formação</h3>
 </div>
 
 <p align="center">
-  Focado em criar solucoes web completas com <strong>React</strong>, <strong>Node.js</strong> e bancos de dados relacionais e nao relacionais.
-  <br/>
-  Transformando ideias em codigo limpo, eficiente e escalavel.
+  Crio aplicações web com foco em interfaces responsivas, APIs bem estruturadas e soluções completas do frontend ao backend.
 </p>
 
 <p align="center">
+  <a href="https://viniprati.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
   <a href="https://linkedin.com/in/vinicius-prati-machado-b25206313" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:viniprati6503@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:prativinicius@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### Sobre Mim
+### Sobre mim
 
-Sou um desenvolvedor **Full Stack Web**, focado em criar aplicacoes completas, do frontend ao backend, com atencao em performance, usabilidade e codigo limpo.
+Sou desenvolvedor **Full Stack Web**, com foco em construir aplicações completas, organizadas e funcionais. Tenho estudado e praticado principalmente com **React**, **Node.js**, **TypeScript**, bancos de dados relacionais e bancos não relacionais.
 
-Atualmente, estou cursando **Desenvolvimento de Sistemas para Internet** no **IFES (graduacao)**, fortalecendo minha base tecnica e aplicando esse conhecimento em projetos praticos.
+Atualmente curso **Desenvolvimento de Sistemas para Internet** no **IFES**, onde venho fortalecendo minha base técnica e aplicando esse conhecimento em projetos práticos.
 
-Meu foco e evoluir continuamente na construcao de solucoes web modernas, escalaveis e bem estruturadas.
+Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiência de uso, código bem estruturado e integração consistente entre frontend, backend e deploy.
 
 ---
+
+### Projetos em destaque
+
+| Projeto | Descrição | Tecnologias | Links |
+| --- | --- | --- | --- |
+| **Aulas Faculdade** | Repositório com exercícios e estudos práticos de Front End, lógica de programação e POO desenvolvidos durante a graduação. | JavaScript, HTML, CSS | [Repositório](https://github.com/viniprati/Aulas-Faculdade) |
+| **ST Club** | Landing page estática para divulgação de uma casa de shows fictícia, com foco em apresentação visual e formulário de contato. | HTML, CSS, JavaScript | [Deploy](https://st-club.vercel.app) · [Repositório](https://github.com/viniprati/ST-Club) |
+| **FrontLab Academy** | Projeto web com páginas de estudo, trilhas, exercícios e estrutura voltada ao aprendizado de frontend. | JavaScript, Vite | [Deploy](https://frontlabacademy.vercel.app) · [Repositório](https://github.com/viniprati/FrontLab-Academy) |
+| **Mini Projeto IFES** | Landing page acadêmica para apresentação de projeto, bots e serviços. | HTML, CSS | [Deploy](https://miniprojetoifes.vercel.app) · [Repositório](https://github.com/viniprati/Mini-Projeto) |
+
+---
+
+### Tecnologias e ferramentas
 
 <p align="center">
-  <a href="https://viniprati.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-Acessar%20meu%20site-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" alt="JavaScript, TypeScript, React, HTML, CSS e Tailwind CSS" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb" alt="Node.js, MySQL, PostgreSQL e MongoDB" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux" alt="Git, VS Code e Linux" />
   </a>
 </p>
 
----
+**Principais interesses técnicos**
 
-### Tecnologias e Ferramentas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,linux" />
-  </a>
-</p>
-
-- Leve experiencia com Linux: Ubuntu, Kali Linux e Linux Mint.
+- Desenvolvimento de interfaces com React, TypeScript e Tailwind CSS.
+- Construção de APIs REST com Node.js.
+- Modelagem e integração com bancos SQL e NoSQL.
+- Organização de projetos full stack, versionamento com Git e deploy web.
+- Uso de Linux em ambientes de estudo, desenvolvimento e testes.
 
 ---
 
-### Meus Proximos Passos
+### Atualmente estudando
 
-- React e Next.js: aprofundando em SSR e SSG para criar aplicacoes web com alta performance e SEO otimizado.
-- APIs e automacoes com Node.js: desenvolvendo APIs RESTful mais eficientes e explorando automacoes de tarefas.
-- Arquitetura Full Stack: evoluindo em organizacao de projetos, padroes de codigo e escalabilidade.
+- **Next.js:** renderização no servidor, geração estática, SEO e performance.
+- **Node.js:** APIs REST, automações e estruturação de backends.
+- **Arquitetura Full Stack:** padrões de projeto, organização de camadas e escalabilidade.
+- **Linux:** prática com Ubuntu, Kali Linux e Linux Mint.
 
 ---
 
 ### Contato
 
-Se voce esta avaliando meu perfil para oportunidades, sera um prazer conversar:
+Estou aberto a oportunidades de estágio, projetos júnior e conexões com outros desenvolvedores.
 
-- LinkedIn: [Vinicius-Prati-Machado](https://linkedin.com/in/vinicius-prati-machado-b25206313)
+- LinkedIn: [Vinicius Prati Machado](https://linkedin.com/in/vinicius-prati-machado-b25206313)
+- Portfólio: [viniprati.vercel.app](https://viniprati.vercel.app)
 - Email: [prativinicius@gmail.com](mailto:prativinicius@gmail.com)
-
