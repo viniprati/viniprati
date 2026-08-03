@@ -68,7 +68,7 @@ Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiê
 - Construção de APIs REST com Node.js.
 - Modelagem e integração com bancos SQL e NoSQL.
 - Organização de projetos full stack, versionamento com Git e deploy web.
-- Uso de Linux em ambientes de estudo, desenvolvimento e testes.
+- Uso do Fedora KDE 44 como sistema operacional principal no dia a dia, além de experiência com outras distribuições Linux.
 
 ---
 
@@ -77,7 +77,7 @@ Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiê
 - **Next.js:** renderização no servidor, geração estática, SEO e performance.
 - **Node.js:** APIs REST, automações e estruturação de backends.
 - **Arquitetura Full Stack:** padrões de projeto, organização de camadas e escalabilidade.
-- **Linux:** prática com Ubuntu, Kali Linux e Linux Mint.
+- **Linux:** uso diário do Fedora e familiaridade com Ubuntu, Kali Linux e Linux Mint.
 
 ---
 
