@@ -31,6 +31,8 @@ Sou desenvolvedor **Full Stack Web**, com foco em construir aplicações complet
 
 Atualmente curso **Desenvolvimento de Sistemas para Internet** no **IFES**, onde venho fortalecendo minha base técnica e aplicando esse conhecimento em projetos práticos.
 
+Também atuo como **Monitor de laboratório de informática** no **IFES Campus Santa Teresa**, com experiência em gestão de laboratórios, manutenção de computadores, instalação de software e apoio ao uso dos ambientes acadêmicos de tecnologia.
+
 Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiência de uso, código bem estruturado e integração consistente entre frontend, backend e deploy.
 
 ---
@@ -81,9 +83,19 @@ Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiê
 
 ---
 
+### Atividade no GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniprati/viniprati/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniprati/viniprati/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/viniprati/viniprati/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ### Contato
 
-Estou aberto a oportunidades de estágio, projetos júnior e conexões com outros desenvolvedores.
+Fique à vontade para entrar em contato para trocar ideias, conversar sobre tecnologia ou conhecer melhor meus projetos.
 
 - LinkedIn: [Vinicius Prati Machado](https://linkedin.com/in/vinicius-prati-machado-b25206313)
 - Portfólio: [viniprati.vercel.app](https://viniprati.vercel.app)
