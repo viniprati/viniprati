@@ -15,6 +15,9 @@
   <a href="https://viniprati.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
+  <a href="https://g.dev/viniprati" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+  </a>
   <a href="https://linkedin.com/in/vinicius-prati-machado-b25206313" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -103,4 +106,5 @@ Fique à vontade para entrar em contato para trocar ideias, conversar sobre tecn
 
 - LinkedIn: [Vinicius Prati Machado](https://linkedin.com/in/vinicius-prati-machado-b25206313)
 - Portfólio: [viniprati.vercel.app](https://viniprati.vercel.app)
+- Google Developer: [g.dev/viniprati](https://g.dev/viniprati)
 - Email: [prativinicius@gmail.com](mailto:prativinicius@gmail.com)
