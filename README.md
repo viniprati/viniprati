@@ -13,16 +13,28 @@
 
 <p align="center">
   <a href="https://viniprati.vercel.app" target="_blank">
-    <img src="./assets/badges/portfolio.svg" alt="Portfólio" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/portfolio-dark.svg">
+      <img src="./assets/badges/portfolio.svg" alt="Portfólio" />
+    </picture>
   </a>
   <a href="https://g.dev/viniprati" target="_blank">
-    <img src="./assets/badges/google-developer.svg" alt="Google Developer" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/google-developer-dark.svg">
+      <img src="./assets/badges/google-developer.svg" alt="Google Developer" />
+    </picture>
   </a>
   <a href="https://linkedin.com/in/vinicius-prati-machado-b25206313" target="_blank">
-    <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/linkedin-dark.svg">
+      <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
+    </picture>
   </a>
   <a href="mailto:prativinicius@gmail.com" target="_blank">
-    <img src="./assets/badges/email.svg" alt="Email" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/email-dark.svg">
+      <img src="./assets/badges/email.svg" alt="Email" />
+    </picture>
   </a>
 </p>
 
