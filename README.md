@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://viniprati.vercel.app" target="_blank">
+  <a href="https://www.viniprati.dev" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/badges/portfolio-dark.svg">
       <img src="./assets/badges/portfolio.svg" alt="Portfólio" />
