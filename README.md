@@ -13,21 +13,21 @@
 
 <p align="center">
   <a href="https://viniprati.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+    <img src="./assets/badges/portfolio.svg" alt="Portfólio" />
   </a>
   <a href="https://g.dev/viniprati" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+    <img src="./assets/badges/google-developer.svg" alt="Google Developer" />
   </a>
   <a href="https://linkedin.com/in/vinicius-prati-machado-b25206313" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="mailto:prativinicius@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./assets/badges/email.svg" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniprati&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=viniprati&label=Profile%20views&color=111827&style=flat" alt="Profile views" />
 </p>
 
 ---
