@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  Crio aplicações web com foco em interfaces responsivas, APIs bem estruturadas e soluções completas do frontend ao backend.
+  Crio aplicações web, bots e APIs com foco em interfaces responsivas, código bem estruturado e soluções completas do frontend ao backend.
 </p>
 
 <p align="center">
@@ -56,14 +56,28 @@ Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiê
 
 ---
 
+### Projeto principal
+
+**HatsuTech** é meu projeto mais completo até agora: um bot Discord desenvolvido em **Python** para a comunidade Animes Cafe.
+
+Ele reúne recursos de moderação, economia interna, ranks, eventos, cargos temporários e VIP, guildas, anúncios, notificações e ferramentas de comunidade em um único sistema.
+
+<p align="center">
+  <a href="https://github.com/viniprati/HatsuTech">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=viniprati&repo=HatsuTech&theme=github_dark&hide_border=true" alt="Card do repositório HatsuTech" />
+  </a>
+</p>
+
+---
+
 ### Projetos em destaque
 
 | Projeto | Descrição | Tecnologias | Links |
 | --- | --- | --- | --- |
+| **HatsuTech** | Bot Discord para a comunidade Animes Cafe, reunindo moderação, economia interna, ranks, eventos, cargos temporários/VIP, guildas e ferramentas de comunidade. | Python, discord.py, MongoDB | [Repositório](https://github.com/viniprati/HatsuTech) |
 | **Aulas Faculdade** | Repositório com exercícios e estudos práticos de Front End, lógica de programação e POO desenvolvidos durante a graduação. | JavaScript, HTML, CSS | [Repositório](https://github.com/viniprati/Aulas-Faculdade) |
 | **ST Club** | Landing page estática para divulgação de uma casa de shows fictícia, com foco em apresentação visual e formulário de contato. | HTML, CSS, JavaScript | [Deploy](https://st-club.vercel.app) · [Repositório](https://github.com/viniprati/ST-Club) |
 | **FrontLab Academy** | Projeto web com páginas de estudo, trilhas, exercícios e estrutura voltada ao aprendizado de frontend. | JavaScript, Vite | [Deploy](https://frontlabacademy.vercel.app) · [Repositório](https://github.com/viniprati/FrontLab-Academy) |
-| **Mini Projeto IFES** | Landing page acadêmica para apresentação de projeto, bots e serviços. | HTML, CSS | [Deploy](https://miniprojetoifes.vercel.app) · [Repositório](https://github.com/viniprati/Mini-Projeto) |
 
 ---
 
@@ -102,6 +116,19 @@ Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiê
 
 ---
 
+### Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=viniprati&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Vinicius Prati" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=viniprati&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas por Vinicius Prati" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=viniprati&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+</p>
+
+---
+
 ### Atividade no GitHub
 
 <picture>
@@ -117,6 +144,6 @@ Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiê
 Fique à vontade para entrar em contato para trocar ideias, conversar sobre tecnologia ou conhecer melhor meus projetos.
 
 - LinkedIn: [Vinicius Prati Machado](https://linkedin.com/in/vinicius-prati-machado-b25206313)
-- Portfólio: [viniprati.vercel.app](https://viniprati.vercel.app)
+- Portfólio: [viniprati.dev](https://www.viniprati.dev)
 - Google Developer: [g.dev/viniprati](https://g.dev/viniprati)
 - Email: [prativinicius@gmail.com](mailto:prativinicius@gmail.com)
