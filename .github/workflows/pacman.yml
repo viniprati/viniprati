@@ -24,6 +24,32 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Apply custom profile theme
+        run: |
+          sed -i \
+            -e 's/#ffffff/#f8fafc/g' \
+            -e 's/#ebedf0/#e5e7eb/g' \
+            -e 's/#9be9a8/#67e8f9/g' \
+            -e 's/#40c463/#22d3ee/g' \
+            -e 's/#30a14e/#06b6d4/g' \
+            -e 's/#216e39/#0891b2/g' \
+            -e 's/#57606a/#64748b/g' \
+            -e 's/#000000/#0f172a/g' \
+            -e 's/#808080/#38bdf8/g' \
+            dist/pacman-contribution-graph.svg
+
+          sed -i \
+            -e 's/#0d1117/#020617/g' \
+            -e 's/#161b22/#111827/g' \
+            -e 's/#0e4429/#164e63/g' \
+            -e 's/#006d32/#0e7490/g' \
+            -e 's/#26a641/#06b6d4/g' \
+            -e 's/#39d353/#22c55e/g' \
+            -e 's/#8b949e/#94a3b8/g' \
+            -e 's/#ffffff/#38bdf8/g' \
+            -e 's/#808080/#67e8f9/g' \
+            dist/pacman-contribution-graph-dark.svg
+
       - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
