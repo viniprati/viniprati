@@ -1,24 +1,3 @@
-<!-- profile-event:start -->
-<div align="center">
-
-### `💻 ⌨️ 🟢 Dia do Programador`
-
-<img src="https://img.shields.io/badge/Dia%20do%20Programador-terminal--green-06BB12?style=for-the-badge&labelColor=000000" alt="Dia do Programador" />
-
-**256 possibilidades para transformar ideias em software.**
-
-<br />
-
-<sub>Hoje o README roda em modo celebração para quem vive entre lógica, bugs e café.</sub>
-
-<br />
-<sub>Evento ativo em 13/09 · America/Sao_Paulo</sub>
-
-</div>
-
----
-
-<!-- profile-event:end -->
 <p align="center">
   <img src="./assets/image.png" alt="Vinicius Prati - Desenvolvedor Full Stack Web" />
 </p>

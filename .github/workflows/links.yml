@@ -1,0 +1,28 @@
+name: Reusable Link Check
+
+on:
+  workflow_call:
+    inputs:
+      args:
+        description: Arguments passed to lychee.
+        required: false
+        type: string
+        default: --verbose --no-progress './**/*.md' './**/*.html'
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    name: Link check
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: ${{ inputs.args }}

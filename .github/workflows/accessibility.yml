@@ -1,0 +1,70 @@
+name: Reusable Accessibility
+
+on:
+  workflow_call:
+    inputs:
+      node-version:
+        description: Node.js version to use.
+        required: false
+        type: string
+        default: lts/*
+      install-command:
+        description: Dependency installation command.
+        required: false
+        type: string
+        default: npm ci
+      build-command:
+        description: Production build command.
+        required: false
+        type: string
+        default: npm run build
+      preview-command:
+        description: Command that starts the production preview server.
+        required: false
+        type: string
+        default: npm run preview -- --host 127.0.0.1 --port 4173
+      base-url:
+        description: URL served by the preview command.
+        required: false
+        type: string
+        default: http://127.0.0.1:4173
+      config:
+        description: pa11y-ci config path.
+        required: false
+        type: string
+        default: .pa11yci.json
+
+permissions:
+  contents: read
+
+jobs:
+  accessibility:
+    name: Accessibility
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ inputs.node-version }}
+          cache: npm
+
+      - name: Install dependencies
+        run: ${{ inputs.install-command }}
+
+      - name: Build project
+        run: ${{ inputs.build-command }}
+
+      - name: Start preview server
+        run: ${{ inputs.preview-command }} &
+
+      - name: Run pa11y-ci
+        env:
+          BASE_URL: ${{ inputs.base-url }}
+        run: |
+          npx --yes wait-on "$BASE_URL"
+          npx --yes pa11y-ci --config "${{ inputs.config }}"

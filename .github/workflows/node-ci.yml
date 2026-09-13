@@ -1,0 +1,88 @@
+name: Reusable Node CI
+
+on:
+  workflow_call:
+    inputs:
+      node-version:
+        description: Node.js version to use.
+        required: false
+        type: string
+        default: lts/*
+      working-directory:
+        description: Directory that contains package.json.
+        required: false
+        type: string
+        default: .
+
+permissions:
+  contents: read
+
+jobs:
+  node-ci:
+    name: Node CI
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    defaults:
+      run:
+        working-directory: ${{ inputs.working-directory }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Detect package manager
+        id: package-manager
+        shell: bash
+        run: |
+          if [ -f package-lock.json ]; then
+            echo "manager=npm" >> "$GITHUB_OUTPUT"
+          elif [ -f pnpm-lock.yaml ]; then
+            echo "manager=pnpm" >> "$GITHUB_OUTPUT"
+          elif [ -f yarn.lock ]; then
+            echo "manager=yarn" >> "$GITHUB_OUTPUT"
+          else
+            echo "No supported lockfile found." >&2
+            exit 1
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ inputs.node-version }}
+          cache: ${{ steps.package-manager.outputs.manager }}
+          cache-dependency-path: ${{ inputs.working-directory }}/*lock*
+
+      - name: Enable Corepack
+        if: steps.package-manager.outputs.manager != 'npm'
+        run: corepack enable
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          case "${{ steps.package-manager.outputs.manager }}" in
+            npm)
+              npm ci
+              ;;
+            pnpm)
+              pnpm install --frozen-lockfile
+              ;;
+            yarn)
+              yarn install --immutable || yarn install --frozen-lockfile
+              ;;
+          esac
+
+      - name: Run available project scripts
+        shell: bash
+        run: |
+          for script in lint typecheck test build; do
+            if node -e "const scripts = require('./package.json').scripts || {}; process.exit(scripts['$script'] ? 0 : 1)"; then
+              echo "Running npm script: $script"
+              case "${{ steps.package-manager.outputs.manager }}" in
+                npm) npm run "$script" ;;
+                pnpm) pnpm run "$script" ;;
+                yarn) yarn run "$script" ;;
+              esac
+            else
+              echo "Skipping missing npm script: $script"
+            fi
+          done

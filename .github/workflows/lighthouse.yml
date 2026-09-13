@@ -1,0 +1,53 @@
+name: Reusable Lighthouse
+
+on:
+  workflow_call:
+    inputs:
+      node-version:
+        description: Node.js version to use.
+        required: false
+        type: string
+        default: lts/*
+      install-command:
+        description: Dependency installation command.
+        required: false
+        type: string
+        default: npm ci
+      build-command:
+        description: Production build command.
+        required: false
+        type: string
+        default: npm run build
+      config:
+        description: Lighthouse CI config path.
+        required: false
+        type: string
+        default: lighthouserc.cjs
+
+permissions:
+  contents: read
+
+jobs:
+  lighthouse:
+    name: Lighthouse
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ inputs.node-version }}
+          cache: npm
+
+      - name: Install dependencies
+        run: ${{ inputs.install-command }}
+
+      - name: Build project
+        run: ${{ inputs.build-command }}
+
+      - name: Run Lighthouse CI
+        run: npx --yes @lhci/cli autorun --config="${{ inputs.config }}"
