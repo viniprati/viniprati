@@ -117,6 +117,9 @@ Ele reúne recursos de moderação, economia interna, ranks, eventos, cargos tem
 ---
 
 ### Estatísticas
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniprati&theme=github_dark"
+/>
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=viniprati&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Vinicius Prati" />
