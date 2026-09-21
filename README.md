@@ -44,17 +44,6 @@
 
 ---
 
-### Sobre mim
-
-Sou desenvolvedor **Full Stack Web**, com foco em construir aplicações completas, organizadas e funcionais. Tenho estudado e praticado principalmente com **React**, **Node.js**, **TypeScript**, bancos de dados relacionais e bancos não relacionais.
-
-Atualmente curso **Desenvolvimento de Sistemas para Internet** no **IFES**, onde venho fortalecendo minha base técnica e aplicando esse conhecimento em projetos práticos.
-
-Também atuo como **Monitor de laboratório de informática** no **IFES Campus Santa Teresa**, com experiência em gestão de laboratórios, manutenção de computadores, instalação de software e apoio ao uso dos ambientes acadêmicos de tecnologia.
-
-Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiência de uso, código bem estruturado e integração consistente entre frontend, backend e deploy.
-
----
 
 ### Projeto principal
 
@@ -67,17 +56,6 @@ Ele reúne recursos de moderação, economia interna, ranks, eventos, cargos tem
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=viniprati&repo=HatsuTech&theme=github_dark&hide_border=true" alt="Card do repositório HatsuTech" />
   </a>
 </p>
-
----
-
-### Projetos em destaque
-
-| Projeto | Descrição | Tecnologias | Links |
-| --- | --- | --- | --- |
-| **HatsuTech** | Bot Discord para a comunidade Animes Cafe, reunindo moderação, economia interna, ranks, eventos, cargos temporários/VIP, guildas e ferramentas de comunidade. | Python, discord.py, MongoDB | [Repositório](https://github.com/viniprati/HatsuTech) |
-| **Aulas Faculdade** | Repositório com exercícios e estudos práticos de Front End, lógica de programação e POO desenvolvidos durante a graduação. | JavaScript, HTML, CSS | [Repositório](https://github.com/viniprati/Aulas-Faculdade) |
-| **ST Club** | Landing page estática para divulgação de uma casa de shows fictícia, com foco em apresentação visual e formulário de contato. | HTML, CSS, JavaScript | [Deploy](https://st-club.vercel.app) · [Repositório](https://github.com/viniprati/ST-Club) |
-| **FrontLab Academy** | Projeto web com páginas de estudo, trilhas, exercícios e estrutura voltada ao aprendizado de frontend. | JavaScript, Vite | [Deploy](https://frontlabacademy.vercel.app) · [Repositório](https://github.com/viniprati/FrontLab-Academy) |
 
 ---
 
@@ -111,7 +89,7 @@ Ele reúne recursos de moderação, economia interna, ranks, eventos, cargos tem
 
 - **Next.js:** renderização no servidor, geração estática, SEO e performance.
 - **Node.js:** APIs REST, automações e estruturação de backends.
-- **Arquitetura Full Stack:** padrões de projeto, organização de camadas e escalabilidade.
+- **Arquitetura Back-End:** padrões de projeto, organização de camadas e escalabilidade.
 - **Linux:** uso diário do Fedora e familiaridade com Ubuntu, Kali Linux e Linux Mint.
 
 ---
