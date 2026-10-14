@@ -96,23 +96,6 @@ Além do desenvolvimento web, tenho interesse em Linux, infraestrutura e deploy.
   </a>
 </p>
 
-**Principais interesses técnicos**
-
-- Desenvolvimento de interfaces com React, TypeScript e Tailwind CSS.
-- Construção de APIs REST com Node.js.
-- Modelagem e integração com bancos SQL e NoSQL.
-- Organização de projetos full stack, versionamento com Git e deploy web.
-- Uso do Fedora KDE 44 como sistema operacional principal no dia a dia, além de experiência com outras distribuições Linux.
-
----
-
-### Atualmente estudando
-
-- **Next.js:** renderização no servidor, geração estática, SEO e performance.
-- **Node.js:** APIs REST, automações e estruturação de backends.
-- **Arquitetura Full Stack:** padrões de projeto, organização de camadas e escalabilidade.
-- **Linux:** uso diário do Fedora e familiaridade com Ubuntu, Kali Linux e Linux Mint.
-
 ---
 
 ### Estatísticas
