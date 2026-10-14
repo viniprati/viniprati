@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/image.png" alt="Vinicius Prati - Desenvolvedor Full Stack Web" />
+  <img src="./assets/image.png" alt="Banner de Vinicius Prati com Tux, circuitos e servidores Linux" />
 </p>
 
 <div align="center">
