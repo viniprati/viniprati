@@ -84,16 +84,13 @@ Além do desenvolvimento web, tenho interesse em Linux, infraestrutura e deploy.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript e TypeScript" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,mysql,postgres,mongodb" alt="JavaScript, TypeScript, Node.js, MySQL, PostgreSQL e MongoDB" />
   </a>
+  <br />
   <img src="https://cdn.simpleicons.org/debian/A81D33" alt="Debian" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" alt="Parrot OS" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" width="48" height="48" />
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb" alt="Node.js, MySQL, PostgreSQL e MongoDB" />
-  </a>
   <br />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,linux" alt="Git, VS Code e Linux" />
