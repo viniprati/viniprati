@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  Crio aplicações web, bots e APIs com foco em interfaces responsivas, código bem estruturado e soluções completas do frontend ao backend.
+  Crio aplicações web, bots e APIs, além de configurar e administrar servidores Linux, com foco em código bem estruturado, automação e infraestrutura.
 </p>
 
 <p align="center">
