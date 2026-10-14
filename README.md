@@ -52,20 +52,6 @@ Meu objetivo é evoluir como desenvolvedor criando produtos web com boa experiê
 
 ---
 
-### Projeto principal
-
-**HatsuTech** é meu projeto mais completo até agora: um bot Discord desenvolvido em **Python** para a comunidade Animes Cafe.
-
-Ele reúne recursos de moderação, economia interna, ranks, eventos, cargos temporários e VIP, guildas, anúncios, notificações e ferramentas de comunidade em um único sistema.
-
-<p align="center">
-  <a href="https://github.com/viniprati/HatsuTech">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=viniprati&repo=HatsuTech&theme=github_dark&hide_border=true" alt="Card do repositório HatsuTech" />
-  </a>
-</p>
-
----
-
 ### Linux e infraestrutura
 
 Além do desenvolvimento web, tenho interesse em Linux, infraestrutura e deploy. Minha experiência como monitor de laboratório inclui manutenção de computadores, instalação de software e apoio técnico nos ambientes do IFES.
