@@ -70,14 +70,13 @@ Ele reúne recursos de moderação, economia interna, ranks, eventos, cargos tem
 
 ---
 
-### Projetos em destaque
+### Linux e infraestrutura
 
-| Projeto | Descrição | Tecnologias | Links |
-| --- | --- | --- | --- |
-| **HatsuTech** | Bot Discord para a comunidade Animes Cafe, reunindo moderação, economia interna, ranks, eventos, cargos temporários/VIP, guildas e ferramentas de comunidade. | Python, discord.py, MongoDB | [Repositório](https://github.com/viniprati/HatsuTech) |
-| **Aulas Faculdade** | Repositório com exercícios e estudos práticos de Front End, lógica de programação e POO desenvolvidos durante a graduação. | JavaScript, HTML, CSS | [Repositório](https://github.com/viniprati/Aulas-Faculdade) |
-| **ST Club** | Landing page estática para divulgação de uma casa de shows fictícia, com foco em apresentação visual e formulário de contato. | HTML, CSS, JavaScript | [Deploy](https://st-club.vercel.app) · [Repositório](https://github.com/viniprati/ST-Club) |
-| **FrontLab Academy** | Projeto web com páginas de estudo, trilhas, exercícios e estrutura voltada ao aprendizado de frontend. | JavaScript, Vite | [Deploy](https://frontlabacademy.vercel.app) · [Repositório](https://github.com/viniprati/FrontLab-Academy) |
+Além do desenvolvimento web, tenho interesse em Linux, infraestrutura e deploy. Minha experiência como monitor de laboratório inclui manutenção de computadores, instalação de software e apoio técnico nos ambientes do IFES.
+
+<p align="center">
+  <img src="./assets/kali_terminal_banner.gif" alt="Animação de um terminal Kali Linux com foco em infraestrutura, servidores e deploy" width="100%" />
+</p>
 
 ---
 
