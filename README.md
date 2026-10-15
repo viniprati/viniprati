@@ -81,19 +81,6 @@ Além do desenvolvimento web, tenho interesse em Linux, infraestrutura e deploy.
 
 ---
 
-### Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=viniprati&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Vinicius Prati" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=viniprati&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais usadas por Vinicius Prati" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=viniprati&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
-</p>
-
----
-
 ### Atividade no GitHub
 
 <picture>
