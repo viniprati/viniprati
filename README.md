@@ -112,3 +112,4 @@ Fique à vontade para entrar em contato para trocar ideias, conversar sobre tecn
 - Portfólio: [viniprati.dev](https://www.viniprati.dev)
 - Google Developer: [g.dev/viniprati](https://g.dev/viniprati)
 - Email: [prativinicius@gmail.com](mailto:prativinicius@gmail.com)
+
