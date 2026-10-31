@@ -1,3 +1,24 @@
+<!-- profile-event:start -->
+<div align="center">
+
+### `🎃 🕸️ 💻 Halloween`
+
+<img src="https://img.shields.io/badge/Halloween-dark--terminal-06BB12?style=for-the-badge&labelColor=000000" alt="Halloween" />
+
+**Nenhum bug fantasma passou pelo lint hoje.**
+
+<br />
+
+<sub>Logs claros, sustos pequenos e deploy sem assombração.</sub>
+
+<br />
+<sub>Evento ativo em 31/10 · America/Sao_Paulo</sub>
+
+</div>
+
+---
+
+<!-- profile-event:end -->
 <p align="center">
   <img src="./assets/image.png" alt="Banner de Vinicius Prati com Tux, circuitos e servidores Linux" />
 </p>
